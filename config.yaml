@@ -8,6 +8,8 @@ Globs:
     - C:\Users\*\AppData\{Roaming,Local}/Google/Chrome/User Data
     - C:\Users\*\AppData\{Roaming,Local}/Microsoft/Edge/User Data
     - C:\Users\*\AppData\{Roaming,Local}\Opera Software\Opera Stable\
+    - C:\Users\*\AppData\{Roaming,Local}\Opera Software\Opera GX Stable\
+    - C:\Users\*\AppData\{Roaming,Local}\Vivaldi\User Data
   MacOSChromeProfiles:
     - /Users/*/Library/Application Support/BraveSoftware/Brave*/
     - /Users/*/Library/Application Support/Google/Chrome/
